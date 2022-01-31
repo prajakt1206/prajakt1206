@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prajakt Tagalpallewar
 - 👀 I’m interested in Machine Learning | MLOps | Data Science | Python
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on mlops practices
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on MLOps Best Practices
 - 📫 How to reach me prajakt1206@gmail.com
 
 <!---
